@@ -1,0 +1,4 @@
+interface:
+  display_name: "TotalSales"
+  short_description: "TotalSales cross-layer engineering knowledge"
+  default_prompt: "Use $totalsale to analyze this TotalSales request across the relevant layers."
