@@ -68,3 +68,18 @@ When the user asks to add learned knowledge:
 3. Add source paths, search anchors, verification date, and status (`Verified`, `Historical`, or `Proposed`).
 4. Remove duplicated guidance and stale claims.
 5. Re-run the skill validator after editing.
+
+## Business learning, executive Q&A, and cross-chat continuity
+
+This skill also provides a structured learning track for heads of sales who need business and technical mastery, not only implementation assistance.
+
+For questions about **learning**, **roadmap**, **progress**, **managerial impact**, **sales document lifecycle**, **rules**, **discounts**, **warehouse/collection**, or **manufacturing vs distribution**:
+
+1. Read [ROADMAP.md](../ROADMAP.md) and [PROGRESS.md](learning/PROGRESS.md) to determine what has been completed and what comes next.
+2. Use [business-domain-map.md](references/business-domain-map.md) and the existing [topic-index.md](references/topic-index.md) to scope the answer.
+3. For conceptual teaching, read [Lesson 01](learning/01-architecture-overview.md) and extend the lesson series progressively.
+4. Follow [ASK-AND-UPDATE.md](learning/ASK-AND-UPDATE.md): business explanation → trace with confidence labels → side effects/risks → exercise.
+5. When a learning step produces durable, verified knowledge, update the corresponding GitHub Issue checkbox and `learning/PROGRESS.md` in the same work session. Do not rely on conversation memory as the canonical progress store.
+6. State exactly what is known from **current source** vs **historical source** vs **proposal/unknown**. Existing reference files are useful historical evidence, not unconditional current behavior.
+
+**Repository security:** This GitHub repository is public. Read [SECURITY.md](../SECURITY.md). Do not copy organization-owned source from Azure DevOps or publish confidential backlog/code/runtime details here. For deep current-code analysis, use an approved private organization repository or authorized read-only Azure DevOps access.
