@@ -48,7 +48,7 @@ Repositories, SQL scripts, runtime rule/status metadata
 - انتخاب یک نوع سند فروش و یک transition واقعی.
 - استخراج entrypoint سمت UI و Backend، سپس Engine Controller/Command، Rule و SQL.
 - ثبت یافته‌ها در یک جدول با ستون‌های `Claim | Source | Commit | Verification date | Confidence | Risk`.
-- به‌روزرسانی [PROGRESS.md](PROGRESS.md) و [Issue #2](../../../issues/2).
+- به‌روزرسانی [PROGRESS.md](PROGRESS.md) و [Issue #2](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/2).
 
 ## پرسش سریع مدیر
 آیا اختلاف رفتار فروش تولیدی و پخشی الزاماً در کد است؟ **خیر.** ممکن است ناشی از configuration، status-flow metadata، Rule mapping یا implementation باشد؛ نسبت واقعی هرکدام باید بررسی شود.
