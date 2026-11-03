@@ -6,16 +6,16 @@ The GitHub issues contain granular checkboxes; `PROGRESS.md` is the cross-chat c
 
 | Phase | Focus | Issue / checklist | Status | Main output |
 |---|---|---|---|---|
-| P0 | Source baseline and evidence rules | [#1](../../issues/1) | 🟡 In progress | reliable source map and current refs |
-| P1 | Architecture and domain model | [#2](../../issues/2) | 🟡 Started | UI → BE → Engine → DB map |
-| P2 | Sales documents and lifecycle | [#3](../../issues/3) | ⬜ Todo | document state/relationship map |
-| P3 | Status flow, Rule Engine, Commands | [#4](../../issues/4) | ⬜ Todo | Rule Catalog and command sequence |
-| P4 | Discounts, prices, recalculation | [#5](../../issues/5) | ⬜ Todo | discount decision tables |
-| P5 | Inventory, credit, collection | [#6](../../issues/6) | ⬜ Todo | inventory & collection impact map |
-| P6 | Returns, field service, SFA | [#7](../../issues/7) | ⬜ Todo | distribution / return flows |
-| P7 | Tax invoices and integrations | [#8](../../issues/8) | ⬜ Todo | integration & failure map |
-| P8 | Manufacturing vs distribution & management | [#9](../../issues/9) | ⬜ Todo | executive playbook |
-| SEC | Source mirroring / access governance | [#10](../../issues/10) | 🔒 Blocked | private, authorized source access |
+| P0 | Source baseline and evidence rules | [#1](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/1) | 🟡 In progress | reliable source map and current refs |
+| P1 | Architecture and domain model | [#2](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/2) | 🟡 Started | UI → BE → Engine → DB map |
+| P2 | Sales documents and lifecycle | [#3](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/3) | ⬜ Todo | document state/relationship map |
+| P3 | Status flow, Rule Engine, Commands | [#4](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/4) | ⬜ Todo | Rule Catalog and command sequence |
+| P4 | Discounts, prices, recalculation | [#5](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/5) | ⬜ Todo | discount decision tables |
+| P5 | Inventory, credit, collection | [#6](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/6) | ⬜ Todo | inventory & collection impact map |
+| P6 | Returns, field service, SFA | [#7](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/7) | ⬜ Todo | distribution / return flows |
+| P7 | Tax invoices and integrations | [#8](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/8) | ⬜ Todo | integration & failure map |
+| P8 | Manufacturing vs distribution & management | [#9](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/9) | ⬜ Todo | executive playbook |
+| SEC | Source mirroring / access governance | [#10](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/10) | 🔒 Blocked | private, authorized source access |
 
 ## Initial validated baseline
 
