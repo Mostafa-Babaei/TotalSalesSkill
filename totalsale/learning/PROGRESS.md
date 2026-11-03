@@ -8,6 +8,7 @@
 - **Next Action:** Verify current repository branches/commits in UI, BE and Engine using permitted read-only access, then trace one sales document state transition through all layers. If access is not available, continue concept training while explicitly marking all code-level assertions unverified.
 
 ## Completed checkpoints
+- [x] 2026-11-03: Added root folders `Engine/`, `Backend/`, and `Frontend/` to the public GitHub skill repository with non-sensitive README placeholders only. Engine source was **not copied** because the destination is public and organizational approval/private hosting is pending.
 - [x] Found existing `Mostafa-Babaei/TotalSalesSkill` and read its `totalsale/SKILL.md`.
 - [x] Reviewed existing `project-map.md`, `topic-index.md`, `engine.md`, `backend.md`, `database.md`, and `source-catalog.md`.
 - [x] Chose to extend the existing skill, not replace or duplicate it.
@@ -36,4 +37,5 @@
 Read this exact file, follow **Next Action**, then update this file and the appropriate Issue after delivering a concrete learning checkpoint. Do not mark a phase complete without source evidence + teaching exercise + test/impact notes. Avoid treating elapsed days as progress.
 
 ## Session log
+- 2026-11-03 — Created GitHub source-layout placeholders; source-mirroring request remains blocked by public visibility and organizational permissions.
 - 2026-11-03 — Roadmap created; existing skill inspected; architecture lesson drafted; public-repo source copying blocked. P0 and P1 in progress.
