@@ -3,8 +3,8 @@
 **Updated:** 2026-11-03 · **Overall:** groundwork created; no full business domain signed off.
 
 ## Current phase
-- **P0** source/evidence mapping: **in progress** ([Issue #1](../../../issues/1)).
-- **P1** architecture/domain model: **started** ([Issue #2](../../../issues/2)).
+- **P0** source/evidence mapping: **in progress** ([Issue #1](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/1)).
+- **P1** architecture/domain model: **started** ([Issue #2](https://github.com/Mostafa-Babaei/TotalSalesSkill/issues/2)).
 - **Next Action:** Verify current repository branches/commits in UI, BE and Engine using permitted read-only access, then trace one sales document state transition through all layers. If access is not available, continue concept training while explicitly marking all code-level assertions unverified.
 
 ## Completed checkpoints
